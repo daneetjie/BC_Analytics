@@ -1,1 +1,1 @@
-# Diabetes_Risk_Segmentation_and_Decision_Support_System
+# BC Analytics
